@@ -8,6 +8,7 @@
 - [Project Overview](#project-overview)
 - [Project Objectives](#project-objectives)
 - [Methodology](#methodology)
+- [Example Results](#example-results)
 - [Tools and Technologies](#tools-and-technologies)
 - [Conclusion](#conclusion)
 - [Limitations](#limitations)
@@ -27,6 +28,14 @@ This project explores the use of a pretrained YOLO model for detecting objects i
 ## Methodology
 
 This project uses a pretrained YOLO model for inference without additional training or fine-tuning. The model processes urban images and returns predicted object classes, bounding boxes, and confidence scores.
+
+## Example Results
+
+### Input Image
+![Input image](City.jpg)
+
+### YOLO Detection Output
+![YOLO detection output](Yolo_city.jpg)
 
 ## Tools and Technologies
 
